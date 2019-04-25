@@ -1,0 +1,3 @@
+[submodule ".\\RmaPocUcService\\WebAplication1.Tests\\Features"]
+	path = .\\RmaPocUcService\\WebAplication1.Tests\\Features
+	url = git@github.com:fsudderth/rma-hlm-features-poc.git
